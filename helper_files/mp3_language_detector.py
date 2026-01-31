@@ -32,16 +32,18 @@ def detect_language_from_mp3(mp3_path: str) -> str:
 
     return detected_lang
 
-def analyze_pack(pack_path: str):
+def analyze_pack(pack_path: str, verbose: bool = False) -> dict:
     tally = {}
     # go over all the items in waze_filename_paths.json and analyze the mp3 and detect language. print the results
-    print(f"Analyzing voice pack at: {pack_path}...")
+    if verbose:
+        print(f"Analyzing voice pack at: {pack_path}...")
     for filename, waze_path in path_finder.filenames_and_paths.items():
         
         full_path = os.path.join(pack_path, waze_path)
         if os.path.exists(full_path):
             language = detect_language_from_mp3(full_path)
-            #print(f"File: {waze_path}, Detected Language: {language}")
+            if verbose:
+                print(f"File: {waze_path} - Detected Language: {language}")
             # add to tally
             if language in tally:
                 tally[language] += 1    
@@ -50,12 +52,18 @@ def analyze_pack(pack_path: str):
         else:
             print(f"File: {waze_path} does not exist in the provided pack path.")
 
-    print("\nTally of detected languages:")
-    print(tally)
+    return tally
     
+def deduce_primary_language(pack_path: str) -> str:
+    tally = analyze_pack(pack_path)
+    if not tally:
+        return "unknown"
+    # find the language with the highest count
+    primary_language = max(tally, key=tally.get)
+    return primary_language
 
 if __name__ == "__main__":
     cwd = os.path.dirname(os.path.abspath(__file__))
-    # look in the test_packs/Voice/ directory for a sample voice pack
     sample_pack_path = os.path.join(cwd, "test_packs", "Voice 2")
-    analyze_pack(sample_pack_path)
+
+    print(deduce_primary_language(sample_pack_path))
