@@ -35,12 +35,13 @@ def detect_language_from_mp3(mp3_path: str) -> str:
 def analyze_pack(pack_path: str):
     tally = {}
     # go over all the items in waze_filename_paths.json and analyze the mp3 and detect language. print the results
+    print(f"Analyzing voice pack at: {pack_path}...")
     for filename, waze_path in path_finder.filenames_and_paths.items():
         
         full_path = os.path.join(pack_path, waze_path)
         if os.path.exists(full_path):
             language = detect_language_from_mp3(full_path)
-            print(f"File: {waze_path}, Detected Language: {language}")
+            #print(f"File: {waze_path}, Detected Language: {language}")
             # add to tally
             if language in tally:
                 tally[language] += 1    
