@@ -34,12 +34,13 @@ This list contains current and former contracted celebrities and voice actors wh
 
 | Name | Link | Language | mp3 files | Notes |
 |------|----------|----------|-----------|-------|
-| Aerobic Instructor 80s | [Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/25490e25-4f56-4c76-a82c-0e77b6c49031.tar.gz) |  |
+| Aerobic Instructor 80s | [Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/25490e25-4f56-4c76-a82c-0e77b6c49031.tar.gz) | [Blog Post](https://blog.google/waze/drive-back-to-the-70-80s-and-90s/)  |
 | Alien | [Link](https://waze.com/ul?acvp=6086eb80-ee87-4841-93ae-1f212817293d) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/6086eb80-ee87-4841-93ae-1f212817293d.tar.gz) |  |
 | Altimet (Malaysian Rapper) | [Link](https://waze.com/ul?acvp=c64ed3e0-e66a-4a36-91d0-38584fb1e0a0) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/c64ed3e0-e66a-4a36-91d0-38584fb1e0a0.tar.gz) |  |
 | Andy Field (FNAF) | [Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/ed951015-c73c-439f-9bbb-0393f0cd4f05.tar.gz) |  |
 | Armie Hammer (Jackson Storm, Cars 3) | [Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/b35569c3-02ec-4c2e-9671-69a693ccb468.tar.gz) |  |
 | Arnold Schwarzenegger (Terminator) | [Link](https://waze.com/ul?acvp=2c87c51a-2646-41ad-9cc8-f119cacc0521) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/2c87c51a-2646-41ad-9cc8-f119cacc0521.tar.gz) |  |
+| BAM - Batman's Car | [Link](https://waze.com/ul?acvp=3bff58cc-cb95-494c-aa60-24a47f978f5b) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/3bff58cc-cb95-494c-aa60-24a47f978f5b.tar.gz) |  |
 | Batman (Kevin Conroy) | [Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/25aff279-476a-4031-a957-0ae982996ae1.tar.gz) |  |
 | Boy Band | [Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/bb79bd55-be60-48b9-bf7f-170e31931ed8.tar.gz) |  |
 | Boy George | [Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/7c06133e-73e7-40e9-9e65-f1317c10863c.tar.gz) |  |
@@ -76,7 +77,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Lilly Singh | [Link](https://waze.com/ul?acvp=c73e7224-c115-4238-8493-586547f81db3) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/c73e7224-c115-4238-8493-586547f81db3.tar.gz) | [Blog Post](https://blog.google/feed/drive-with-lilly-singh-on-waze/)  |
 | Lincoln Canada | [Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/19a85755-d7ff-43e8-8b4c-74780f7cf0ce.tar.gz) |  |
 | Madea (Tyler Perry) | [Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/583004cf-2ee5-430d-bdb5-03c612fdd2ec.tar.gz) |  |
-| Master Chief (Halo) | [Link](https://waze.com/ul?acvp=80e1fa58-109a-4f0a-b4ad-dce65154c53d) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/80e1fa58-109a-4f0a-b4ad-dce65154c53d.tar.gz) |  |
+| Master Chief (Halo) | [Link](https://waze.com/ul?acvp=952be556-8e63-464f-ae76-7f6151a17e0a) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/952be556-8e63-464f-ae76-7f6151a17e0a.tar.gz) |  |
 | Matilda | [Link](https://waze.com/ul?acvp=cd7a6851-bfb0-4f7d-ad13-545509acca74) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/cd7a6851-bfb0-4f7d-ad13-545509acca74.tar.gz) | Australian Accent |
 | Michael C. Hall (Dexter Morgan) | [Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/5a5af23c-c2ee-4e90-9676-bb5d45e60894.tar.gz) |  |
 | Mimiyuuuh (Lazada) | [Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino | [mp3 files](https://voice-prompts-ipv6.waze.com/c426fd75-3347-4d6a-bced-7a31a7e1cac3.tar.gz) |  |
@@ -96,9 +97,12 @@ This list contains current and former contracted celebrities and voice actors wh
 | Roberts Lejameihers | [Link](https://waze.com/ul?acvp=0091c532-7974-4dc2-b500-5a11b0f29b5c) | Latvian | [mp3 files](https://voice-prompts-ipv6.waze.com/0091c532-7974-4dc2-b500-5a11b0f29b5c.tar.gz) |  |
 | Ross | [Link](https://waze.com/ul?acvp=8d6918c9-0679-4caf-8f39-7e3cd3757d7f) | Enlgish | [mp3 files](https://voice-prompts-ipv6.waze.com/8d6918c9-0679-4caf-8f39-7e3cd3757d7f.tar.gz) | Australian Accent |
 | Safe Mode Kids | [Link](https://waze.com/ul?acvp=beca7b55-329c-4cb5-b067-101758a46984) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/beca7b55-329c-4cb5-b067-101758a46984.tar.gz) |  |
-| Santa (A) | [Link](https://waze.com/ul?acvp=ff872578-d951-4a8d-980e-93ad472c2fd5) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/ff872578-d951-4a8d-980e-93ad472c2fd5.tar.gz) |  |
-| Santa (B) | [Link](https://waze.com/ul?acvp=5feba8af-7cc7-49d1-8559-4ce52f46037b) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/5feba8af-7cc7-49d1-8559-4ce52f46037b.tar.gz) | Mall Santa |
-| Santa (C) | [Link](https://waze.com/ul?acvp=630db9f8-b98e-4ede-b8cf-60687b3638d7) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/630db9f8-b98e-4ede-b8cf-60687b3638d7.tar.gz) |  |
+| Santa (A) | [Link](https://waze.com/ul?acvp=209f7cc6-7126-4971-9956-7aad044cf364) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/209f7cc6-7126-4971-9956-7aad044cf364.tar.gz) |  |
+| Santa (B) | [Link](https://waze.com/ul?acvp=a78efd01-15a3-4b84-b18c-1799c8ee7768) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/a78efd01-15a3-4b84-b18c-1799c8ee7768.tar.gz) |  |
+| Santa (C) | [Link](https://waze.com/ul?acvp=e13cb3f8-79b3-4cb7-bdfe-a192faf17993) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/e13cb3f8-79b3-4cb7-bdfe-a192faf17993.tar.gz) |  |
+| Santa, Coca-Cola Santa | [Link](https://waze.com/ul?acvp=7c0de730-9438-4633-b076-53db3e846a64) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/7c0de730-9438-4633-b076-53db3e846a64.tar.gz) |  |
+| Santa, Mall Santa 1023 | [Link](https://waze.com/ul?acvp=935fb91c-9d91-4c69-ac1a-6e481efa36ef) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/935fb91c-9d91-4c69-ac1a-6e481efa36ef.tar.gz) |  |
+| Scottish Glaswegian Accent | [Link](https://waze.com/ul?acvp=) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/.tar.gz) |  |
 | Shaquille O'Neal | [Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/01a7fcd0-daed-4d1a-8807-1ae202ee7219.tar.gz) |  |
 | Soccer Commentator | [Link](https://waze.com/ul?acvp=bb69ca3a-4d67-4d2d-bbe8-dfd47f46e5f7) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/bb69ca3a-4d67-4d2d-bbe8-dfd47f46e5f7.tar.gz) |  |
 | Stephen (Steph) Curry | [Link](https://waze.com/ul?acvp=16a9c62d-d946-4f0a-bcee-3af44add9a5b) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/16a9c62d-d946-4f0a-bcee-3af44add9a5b.tar.gz) |  |
@@ -115,6 +119,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Toy Story 4 (Buzz and Woody) | [Link](https://waze.com/ul?acvp=505fc8e5-e37d-4488-9698-00973b6abbe6) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/505fc8e5-e37d-4488-9698-00973b6abbe6.tar.gz) |  |
 | Venom | [Link](https://waze.com/ul?acvp=d5ab8251-3168-4da9-b062-babcb8607347) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/d5ab8251-3168-4da9-b062-babcb8607347.tar.gz) | [Blog Post](https://blog.google/waze/drive-with-venom-the-last-dance-on-waze/)  |
 | Vlade Divac | [Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/d7974d6e-5ed5-4807-83c0-8e4d678ac3f8.tar.gz) |  |
+| Women's History Month | [Link](https://waze.com/ul?acvp=a459934f-89e7-4a44-9122-e52686620234) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/a459934f-89e7-4a44-9122-e52686620234.tar.gz) |  |
 
 
 # Waze Community Voice List

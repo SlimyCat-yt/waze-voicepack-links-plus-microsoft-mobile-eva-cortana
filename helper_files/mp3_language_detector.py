@@ -54,8 +54,8 @@ def analyze_pack(pack_path: str, verbose: bool = False) -> dict:
 
     return tally
     
-def deduce_primary_language(pack_path: str) -> str:
-    tally = analyze_pack(pack_path)
+def deduce_primary_language(pack_path: str, verbose: bool = False) -> str:
+    tally = analyze_pack(pack_path, verbose)
     if not tally:
         return "unknown"
     # find the language with the highest count
