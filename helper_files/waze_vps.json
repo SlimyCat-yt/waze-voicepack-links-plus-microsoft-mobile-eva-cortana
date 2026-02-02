@@ -444,7 +444,7 @@
         "uuid": "209f7cc6-7126-4971-9956-7aad044cf364"
     },
     {
-        "name": "Santa, Mall Santa 1023",
+        "name": "Santa, Mall Santa",
         "language": "English",
         "uuid": "935fb91c-9d91-4c69-ac1a-6e481efa36ef"
     }
@@ -668,13 +668,6 @@
         "name": "Hakka",
         "language": "Hakka",
         "uuid": "5BD0ED72-01C7-4BF5-82A1-78986761DC9C"
-    },
-    {
-        "name": "Hatsune Miku",
-        "language": "English",
-        "uuid": "",
-        "author": "EightyUh",
-        "author_link": "https://eightyuh.carrd.co/"
     },
     {
         "name": "Hatsune Miku (French)",
@@ -944,13 +937,6 @@
         "uuid": "b2ddf4b7-0884-441b-96ab-e3b82a5b76bd",
         "author": "tutaf",
         "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/60"
-    },
-    {
-        "name": "Vocaloid Oliver",
-        "language": "English",
-        "uuid": "",
-        "author": "EightyUh",
-        "author_link": "https://eightyuh.carrd.co/"
     },
     {
         "name": "Voix de Dédé Saint-Prix",
