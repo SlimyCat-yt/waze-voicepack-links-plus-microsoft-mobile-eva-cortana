@@ -31,7 +31,7 @@ StartDrive4,Cortana AI voice navigation activated.
 StartDrive5,New Objective. Starting Navigation.
 StartDrive6,Engaging Navigation Interface.
 StartDrive7,Deploying Navigational Interface
-StartDrive8,"Starting Navigation. Cortana at your service!"
+StartDrive8,Starting Navigation. Cortana at your service!
 StartDrive9,Another Mission? Starting Navigation.
 Straight,Continue Straight
 Third,Take the Third Exit
@@ -39,3 +39,4 @@ TickerPoints,Recovering Navigation
 TurnLeft,Turn Left
 TurnRight,Turn Right
 uturn,Do a 1 80 U turn
+
