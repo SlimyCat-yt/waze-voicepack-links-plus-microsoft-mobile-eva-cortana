@@ -547,6 +547,13 @@
         "uuid": "6094a015-c947-4c63-8137-9679fb884681",
         "author": "Hosshoffman",
         "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/151"
+    },{
+        "name": "Cortana (Microsoft Windows Eva Mobile)",
+        "language": "English",
+        "uuid": "d1c9e5b8-7a0c-4f1b-9c3e-2a1f8e5b6c3d",
+        "author": "SlimyCat-yt",
+        "author_link": "https://github.com/SlimyCat-yt",
+        "notes":"https://waze.com/ul?acvp=f179c7f1-f32f-4877-9ace-df7b0593efc9 https://voice-prompts-ipv6.waze.com/f179c7f1-f32f-4877-9ace-df7b0593efc9.tar.gz"
     },
     {
         "name": "Country Boy",
