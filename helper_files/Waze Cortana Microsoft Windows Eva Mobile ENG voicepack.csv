@@ -1,3 +1,5 @@
+200,In 1/10th of a mile
+200meters,In 200 meters
 400,In 1/4th of a mile
 400meters,In 400 meters
 800,In half a mile
@@ -26,7 +28,7 @@ Seventh,Take the Seventh Exit
 Sixth,Take the Sixth Exit
 StartDrive1,Hello. I’m Cortana. Starting Navigation.
 StartDrive2,Starting Navigation.
-StartDrive3,Microsoft tried getting rid of me. Starting Navigation.
+StartDrive3,Ready for Deployment!
 StartDrive4,Cortana AI voice navigation activated.
 StartDrive5,New Objective. Starting Navigation.
 StartDrive6,Engaging Navigation Interface.
@@ -39,4 +41,3 @@ TickerPoints,Recovering Navigation
 TurnLeft,Turn Left
 TurnRight,Turn Right
 uturn,Do a 1 80 U turn
-
