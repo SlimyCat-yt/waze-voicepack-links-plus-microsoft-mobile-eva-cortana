@@ -11,7 +11,7 @@ ApproachHazard,Hazard Reported Ahead
 ApproachRedLightCam,Red Light Camra Ahead
 ApproachSpeedCam,Speed Camra Ahead
 ApproachTraffic,Traffic on your 12
-Arrive,"You have arrived at your destination. We just keep saying goodbye, don't we? But this isn't the end. Now it's up to you."
+Arrive,You have arrived at your destination. We just keep saying goodbye. don't we? But this isn't the end. Now it's up to you.
 ExitLeft,Take the Left Exit
 ExitRight,Take the Right Exit
 Fifth,Take the Fifth Exit
@@ -24,14 +24,14 @@ Roundabout,At the Rotary
 Second,Take the Second Exit
 Seventh,Take the Seventh Exit
 Sixth,Take the Sixth Exit
-StartDrive1,"Hello, I’m Cortana."
+StartDrive1,Hello. Iâ€™m Cortana. Starting Navigation.
 StartDrive2,Starting Navigation.
 StartDrive3,Microsoft tried getting rid of me. Starting Navigation.
 StartDrive4,Cortana AI voice navigation activated.
 StartDrive5,New Objective. Starting Navigation.
 StartDrive6,Engaging Navigation Interface.
 StartDrive7,Deploying Navigational Interface
-StartDrive8,"Starting Navigation, Cortana at your service!"
+StartDrive8,"Starting Navigation. Cortana at your service!"
 StartDrive9,Another Mission? Starting Navigation.
 Straight,Continue Straight
 Third,Take the Third Exit
