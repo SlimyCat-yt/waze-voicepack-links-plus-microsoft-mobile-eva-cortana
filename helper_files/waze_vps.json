@@ -553,7 +553,7 @@
         "uuid": "d1c9e5b8-7a0c-4f1b-9c3e-2a1f8e5b6c3d",
         "author": "SlimyCat-yt",
         "author_link": "https://github.com/SlimyCat-yt",
-        "notes":"used enable-microsoft-eva-tts-master & Cortana-OpenTX-voice-master to generate wav files, then converted to mp3 with ffmpeg"
+        "notes":"used enable-microsoft-eva-tts-master & Cortana-OpenTX-voice-master at 2 ticks faster to generate wav files, then converted to mp3 with ffmpeg"
     },
     {
         "name": "Country Boy",
