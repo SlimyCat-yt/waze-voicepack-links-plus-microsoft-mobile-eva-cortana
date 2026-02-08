@@ -26,7 +26,7 @@ An example of a successful upload from the script
 3. Install ffmpeg on your system if you don't have it already - this is used for file compression and validation
 4. Run the `mp3_upload/main.py` script using the configured python environment and follow the progress through each step. If everything is successful, you will see a link to your uploaded voicepack in the console output
 
-# `valid-waze-mp3-names.txt` filenames and their meanings
+# `valid_waze_filenames.txt` filenames and their meanings
 
 This file contains a list of valid mp3 filenames that Waze recognizes for voicepacks. Each filename corresponds to a specific voice prompt used in the Waze navigation app. The filenames are structured to indicate the type of prompt, such as directions, alerts, and other navigation-related messages. Here are all the filenames and their meanings:
 - `200.mp3` - Prompt for "In 0.1 miles..."
